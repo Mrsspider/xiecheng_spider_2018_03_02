@@ -1,0 +1,23 @@
+
+create table xc_index(
+id int not null auto_increment,
+title varchar(100) default null,
+point_num float(7,3) default null,
+comment_url varchar(100) default null,
+price float(20,3) default null,
+product_comment int(10) default null,
+product_num int(10) default null,
+primary key (id)
+) charset=utf8;
+
+create table xc_comment(
+id int not null auto_increment,
+user varchar(100) default null,
+comment varchar(3000) default null,
+title_id int,
+primary key(id),
+foreign key(title_id) references xc_index(id)
+) charset=utf8;
+
+
+http://huodong.ctrip.com/Activity-Booking-OnlineWebSite/Recommend/UserComments?id=2071349&productName=fdfd&pageSize=5&pageIndex=3

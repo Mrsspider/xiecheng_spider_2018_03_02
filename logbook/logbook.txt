@@ -1,0 +1,157 @@
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errortype': IndexError('list index out of range',), 'errorFunc': 'parser_xc_comment'}
+{'errortype': IndexError('list index out of range',), 'errorFunc': 'parser_xc_comment'}
+{'errortype': IndexError('list index out of range',), 'errorFunc': 'parser_xc_comment'}
+{'errortype': IndexError('list index out of range',), 'errorFunc': 'parser_xc_comment'}
+{'errortype': IndexError('list index out of range',), 'errorFunc': 'parser_xc_comment'}
+{'errortype': IndexError('list index out of range',), 'errorFunc': 'parser_xc_comment'}
+{'errortype': IndexError('list index out of range',), 'errorFunc': 'parser_xc_comment'}
+{'errortype': IndexError('list index out of range',), 'errorFunc': 'parser_xc_comment'}
+{'errortype': IndexError('list index out of range',), 'errorFunc': 'parser_xc_comment'}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errortype': IndexError('list index out of range',), 'errorFunc': 'parser_xc_comment'}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errortype': IndexError('list index out of range',), 'errorFunc': 'parser_xc_comment'}
+{'errortype': IndexError('list index out of range',), 'errorFunc': 'parser_xc_comment'}
+{'errortype': IndexError('list index out of range',), 'errorFunc': 'parser_xc_comment'}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorfunc': 'comment.main', 'errortype': ValueError("invalid literal for int() with base 10: ''",)}
+{'errorfunc': 'comment.main', 'errortype': ValueError("invalid literal for int() with base 10: ''",)}
+{'errorfunc': 'comment.main', 'errortype': ValueError("invalid literal for int() with base 10: ''",)}
+{'errorfunc': 'comment.main', 'errortype': ValueError("invalid literal for int() with base 10: ''",)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorfunc': 'comment.main', 'errortype': ValueError("invalid literal for int() with base 10: ''",)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorfunc': 'comment.main', 'errortype': ValueError("invalid literal for int() with base 10: ''",)}
+{'errorfunc': 'comment.main', 'errortype': ValueError("invalid literal for int() with base 10: ''",)}
+{'errorfunc': 'comment.main', 'errortype': ValueError("invalid literal for int() with base 10: ''",)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorfunc': 'comment.main', 'errortype': ValueError("invalid literal for int() with base 10: ''",)}
+{'errorfunc': 'comment.main', 'errortype': ValueError("invalid literal for int() with base 10: ''",)}
+{'errorfunc': 'comment.main', 'errortype': ValueError("invalid literal for int() with base 10: ''",)}
+{'errorfunc': 'comment.main', 'errortype': ValueError("invalid literal for int() with base 10: ''",)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorfunc': 'comment.main', 'errortype': ValueError("invalid literal for int() with base 10: ''",)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorfunc': 'comment.main', 'errortype': ValueError("invalid literal for int() with base 10: ''",)}
+{'errorfunc': 'comment.main', 'errortype': ValueError("invalid literal for int() with base 10: ''",)}
+{'errorfunc': 'comment.main', 'errortype': ValueError("invalid literal for int() with base 10: ''",)}
+{'errortype': IndexError('list index out of range',), 'errorFunc': 'parser_xc_comment'}
+{'errortype': IndexError('list index out of range',), 'errorFunc': 'parser_xc_comment'}
+{'errortype': IndexError('list index out of range',), 'errorFunc': 'parser_xc_comment'}
+{'errorfunc': 'comment.main', 'errortype': ValueError("invalid literal for int() with base 10: ''",)}
+{'errorfunc': 'comment.main', 'errortype': ValueError("invalid literal for int() with base 10: ''",)}
+{'errorfunc': 'comment.main', 'errortype': ValueError("invalid literal for int() with base 10: ''",)}
+{'errorfunc': 'comment.main', 'errortype': ValueError("invalid literal for int() with base 10: ''",)}
+{'errortype': IndexError('list index out of range',), 'errorFunc': 'parser_xc_comment'}
+{'errorfunc': 'comment.main', 'errortype': ValueError("invalid literal for int() with base 10: ''",)}
+{'errortype': IndexError('list index out of range',), 'errorFunc': 'parser_xc_comment'}
+{'errorfunc': 'comment.main', 'errortype': ValueError("invalid literal for int() with base 10: ''",)}
+{'errorfunc': 'comment.main', 'errortype': ValueError("invalid literal for int() with base 10: ''",)}
+{'errorfunc': 'comment.main', 'errortype': ValueError("invalid literal for int() with base 10: ''",)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errortype': ValueError("invalid literal for int() with base 10: ''",), 'errorfunc': 'comment.main'}
+{'errortype': ValueError("invalid literal for int() with base 10: ''",), 'errorfunc': 'comment.main'}
+{'errortype': ValueError("invalid literal for int() with base 10: ''",), 'errorfunc': 'comment.main'}
+{'errortype': ValueError("invalid literal for int() with base 10: ''",), 'errorfunc': 'comment.main'}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errortype': ValueError("invalid literal for int() with base 10: ''",), 'errorfunc': 'comment.main'}
+{'errorFunc': 'parser_xc_comment', 'errortype': IndexError('list index out of range',)}
+{'errortype': ValueError("invalid literal for int() with base 10: ''",), 'errorfunc': 'comment.main'}
+{'errortype': ValueError("invalid literal for int() with base 10: ''",), 'errorfunc': 'comment.main'}
+{'errortype': ValueError("invalid literal for int() with base 10: ''",), 'errorfunc': 'comment.main'}
+{'errorFunc': 'htmlparser', 'htmlparser': XMLSyntaxError(None,)}
+{'errorFunc': 'htmlparser', 'htmlparser': XMLSyntaxError(None,)}
+{'errorFunc': 'htmlparser', 'htmlparser': XMLSyntaxError(None,)}
+{'errorFunc': 'htmlparser', 'htmlparser': XMLSyntaxError(None,)}
+{'errorFunc': 'htmlparser', 'htmlparser': XMLSyntaxError(None,)}
+{'errorFunc': 'htmlparser', 'htmlparser': XMLSyntaxError(None,)}
+{'errorFunc': 'htmlparser', 'htmlparser': XMLSyntaxError(None,)}
+{'errorFunc': 'htmlparser', 'htmlparser': XMLSyntaxError(None,)}
+{'errorFunc': 'htmlparser', 'htmlparser': XMLSyntaxError(None,)}
+{'htmlparser': XMLSyntaxError(None,), 'errorFunc': 'htmlparser'}
+{'htmlparser': XMLSyntaxError(None,), 'errorFunc': 'htmlparser'}
+{'htmlparser': XMLSyntaxError(None,), 'errorFunc': 'htmlparser'}
+{'htmlparser': XMLSyntaxError(None,), 'errorFunc': 'htmlparser'}
+{'htmlparser': XMLSyntaxError(None,), 'errorFunc': 'htmlparser'}
+{'htmlparser': XMLSyntaxError(None,), 'errorFunc': 'htmlparser'}
+{'htmlparser': XMLSyntaxError(None,), 'errorFunc': 'htmlparser'}
+{'htmlparser': XMLSyntaxError(None,), 'errorFunc': 'htmlparser'}
+{'htmlparser': XMLSyntaxError(None,), 'errorFunc': 'htmlparser'}
+{'htmlparser': XMLSyntaxError(None,), 'errorFunc': 'htmlparser'}
+{'htmlparser': XMLSyntaxError(None,), 'errorFunc': 'htmlparser'}
+{'htmlparser': XMLSyntaxError(None,), 'errorFunc': 'htmlparser'}
+{'htmlparser': XMLSyntaxError(None,), 'errorFunc': 'htmlparser'}
+{'htmlparser': XMLSyntaxError(None,), 'errorFunc': 'htmlparser'}
+{'htmlparser': XMLSyntaxError(None,), 'errorFunc': 'htmlparser'}
+{'htmlparser': XMLSyntaxError(None,), 'errorFunc': 'htmlparser'}
+{'errorFunc': 'htmlparser', 'htmlparser': XMLSyntaxError(None,)}
+{'errorFunc': 'htmlparser', 'htmlparser': XMLSyntaxError(None,)}
+{'errorFunc': 'htmlparser', 'htmlparser': XMLSyntaxError(None,)}
+{'errorFunc': 'htmlparser', 'htmlparser': XMLSyntaxError(None,)}
+{'errorFunc': 'htmlparser', 'htmlparser': XMLSyntaxError(None,)}
+{'errorFunc': 'htmlparser', 'htmlparser': XMLSyntaxError(None,)}
+{'errorFunc': 'htmlparser', 'htmlparser': XMLSyntaxError(None,)}
+{'errorFunc': 'htmlparser', 'htmlparser': XMLSyntaxError(None,)}
+{'htmlparser': XMLSyntaxError(None,), 'errorFunc': 'htmlparser'}
+{'htmlparser': XMLSyntaxError(None,), 'errorFunc': 'htmlparser'}
+{'htmlparser': XMLSyntaxError(None,), 'errorFunc': 'htmlparser'}
+{'htmlparser': XMLSyntaxError(None,), 'errorFunc': 'htmlparser'}
+{'htmlparser': XMLSyntaxError(None,), 'errorFunc': 'htmlparser'}
+{'htmlparser': XMLSyntaxError(None,), 'errorFunc': 'htmlparser'}
+{'htmlparser': XMLSyntaxError(None,), 'errorFunc': 'htmlparser'}
+{'htmlparser': XMLSyntaxError(None,), 'errorFunc': 'htmlparser'}
+{'errorFunc': 'htmlparser', 'htmlparser': XMLSyntaxError(None,)}
+{'errorFunc': 'htmlparser', 'htmlparser': XMLSyntaxError(None,)}
+{'errorFunc': 'htmlparser', 'htmlparser': XMLSyntaxError(None,)}
+{'errorFunc': 'htmlparser', 'htmlparser': XMLSyntaxError(None,)}
+{'errorFunc': 'htmlparser', 'htmlparser': XMLSyntaxError(None,)}
+{'errorFunc': 'htmlparser', 'htmlparser': XMLSyntaxError(None,)}
+{'errorFunc': 'htmlparser', 'htmlparser': XMLSyntaxError(None,)}
+{'errorFunc': 'htmlparser', 'htmlparser': XMLSyntaxError(None,)}
